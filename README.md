@@ -1,16 +1,16 @@
-# animated_flight_booking_app
+# Animated Flight Booking App
 
-A new Flutter project.
+Hi, this a Flutter project for both Android and iOS. 
+
+# Project Information 
+- [Dribbble Design:](https://dribbble.com/)
+- [RN-Version]
 
 ## Getting Started
+After cloning this repo,IN YOUR TERMINAL cd in to the project root and follow the ff commands:
 
-This project is a starting point for a Flutter application.
+- [Step 1:] flutter pub get
+- [Step 2:] select your device in your IDE/Code Editor 
+- [Step 3:] flutter run --debug
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Demo
